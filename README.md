@@ -150,20 +150,4 @@ Planned split (future): `models.py`, `engine/monitor.py`, `ui/app.py`, `ui/histo
 - Save settings (window size, columns, last host list)
 - Export graph as PNG, and zoom/pan (optional matplotlib backend)
 
----
 
-## 🤝 Contributing
-
-Issues and PRs welcome. Please include OS, Python version, and steps to reproduce any bugs.
-
----
-
-## 📄 License
-
-Choose a license (e.g., **MIT**) and add `LICENSE` to the repo. If you’re unsure, MIT is a good default for small tools.
-
----
-
-## 🙏 Acknowledgements
-
-Thanks to the Python standard library for making fully dependency‑free desktop tools possible: `tkinter`, `concurrent.futures`, `subprocess`, `dataclasses`.
