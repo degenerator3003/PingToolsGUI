@@ -4,6 +4,8 @@ A clean, cross‑platform desktop app to continuously **ping multiple hosts** (s
 
 > **No admin/root required.** Uses the system `ping` command under the hood. On Windows, probe processes are completely hidden (no black CMD pop‑ups). The app also shuts down cleanly so no background pings are left running.
 
+
+![Ping Monitor](assets/screenshots/Scr543.png)
 ---
 
 ## ✨ Features
